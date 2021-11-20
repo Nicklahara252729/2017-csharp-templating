@@ -1,0 +1,9 @@
+c:\users\nick\documents\visual studio 2013\Projects\Template\Template\bin\Debug\Template.exe.config
+c:\users\nick\documents\visual studio 2013\Projects\Template\Template\bin\Debug\Template.exe
+c:\users\nick\documents\visual studio 2013\Projects\Template\Template\bin\Debug\Template.pdb
+c:\users\nick\documents\visual studio 2013\Projects\Template\Template\obj\Debug\Template.csprojResolveAssemblyReference.cache
+c:\users\nick\documents\visual studio 2013\Projects\Template\Template\obj\Debug\Template.home.resources
+c:\users\nick\documents\visual studio 2013\Projects\Template\Template\obj\Debug\Template.Properties.Resources.resources
+c:\users\nick\documents\visual studio 2013\Projects\Template\Template\obj\Debug\Template.csproj.GenerateResource.Cache
+c:\users\nick\documents\visual studio 2013\Projects\Template\Template\obj\Debug\Template.exe
+c:\users\nick\documents\visual studio 2013\Projects\Template\Template\obj\Debug\Template.pdb
